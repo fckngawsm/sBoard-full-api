@@ -6,7 +6,7 @@
 
 ### BACKEND
 
-[backend]: https://github.com/fckngawsm/nest-sBoard
+[backend] : https://github.com/fckngawsm/nest-sBoard
 
 #### Примечания
 
